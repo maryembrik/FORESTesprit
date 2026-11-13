@@ -1,0 +1,3 @@
+[submodule "forest-tree-detection"]
+	path = forest-tree-detection
+	url = https://github.com/maryembrik/forest-tree-detection.git
